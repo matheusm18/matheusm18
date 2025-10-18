@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 👋
+
+Im __Matheus__ and i'm a software engineering student at Universidade do Minho.
+Currently in my **2nd year**.
+
+# ☕ Languages:
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](https://www.c-language.org/about)
+[![Haskell](https://img.shields.io/badge/Haskell-5e5086?logo=haskell&logoColor=white)](https://www.haskell.org/)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 
 <!--
 **matheusm18/matheusm18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
