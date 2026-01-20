@@ -13,3 +13,4 @@ Here are some of the things I’ve been working on:
 - 🗼 [Immutable Towers (Haskell)](https://github.com/matheusm18/immutabletowers-li1) – exploring functional programming through games.
 - 🧩 [Puzzle Solver (C)](https://github.com/matheusm18/puzzle-li2) – hitori-like puzzle solver implemented in C.
 - 🌍 [Novos Horizontes (SQL)](https://github.com/matheusm18/novos-horizontes) – relational database for managing pedagogical virtual trips.
+- ✈️ [Flights System (C)](https://github.com/matheusm18/flights-system-li3) – a C system developed with a strict focus on modularity and encapsulation, featuring an interactive terminal interface (ncurses) and optimized data structures.
