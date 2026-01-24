@@ -8,6 +8,7 @@ Here are some of the things I’ve been working on:
 - 🧩 [Puzzle Solver (C)](https://github.com/matheusm18/puzzle-li2) – hitori-like puzzle solver implemented in C.
 - 🌍 [Novos Horizontes (SQL)](https://github.com/matheusm18/novos-horizontes) – relational database for managing pedagogical virtual trips.
 - ✈️ [Flights System (C)](https://github.com/matheusm18/flights-system-li3) – a C system developed with a strict focus on modularity and encapsulation, featuring an interactive terminal interface (ncurses) and optimized data structures.
+- 🌧️ [Aether (JavaScript)](https://github.com/matheusm18/aether) – weather dashboard focusing on API fetching, asynchronous logic, and dynamic UI updates with Tailwind CSS.
 
 # ☕ Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
