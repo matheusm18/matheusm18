@@ -4,12 +4,13 @@ I'm **Matheus**, a Software Engineering student at **Universidade do Minho**, cu
 
 # 🚀 Projects
 Here are some of the things I’ve been working on:
-- 🏥 [Healthium (FastAPI + Vue.js)](https://github.com/matheusm18/healthium) – AI-powered nutrition platform (3rd Place @ BugsByte 2026).
-- 🗼 [Immutable Towers (Haskell)](https://github.com/matheusm18/immutabletowers-li1) – exploring functional programming through games.
-- 🧩 [Puzzle Solver (C)](https://github.com/matheusm18/puzzle-li2) – hitori-like puzzle solver implemented in C.
-- 🌍 [Novos Horizontes (SQL)](https://github.com/matheusm18/novos-horizontes) – relational database for managing pedagogical virtual trips.
-- ✈️ [Flights System (C)](https://github.com/matheusm18/flights-system-li3) – a C system developed with a strict focus on modularity and encapsulation, featuring an interactive terminal interface (ncurses) and optimized data structures.
-- 🌧️ [Aether (JavaScript)](https://github.com/matheusm18/aether) – weather dashboard focusing on API fetching, asynchronous logic, and dynamic UI updates with Tailwind CSS.
+- 🏥 [Healthium (FastAPI + Vue.js)](https://github.com/matheusm18/healthium) - AI-powered nutrition platform (3rd Place @ BugsByte 2026).
+- 🎮 [Platinum (Next.js)](https://github.com/matheusm18/platinum) - social platform for gamers to track, rate and review games.
+- 🗼 [Immutable Towers (Haskell)](https://github.com/matheusm18/immutabletowers-li1) - exploring functional programming through games.
+- 🧩 [Puzzle Solver (C)](https://github.com/matheusm18/puzzle-li2) - hitori-like puzzle solver implemented in C.
+- 🌍 [Novos Horizontes (SQL)](https://github.com/matheusm18/novos-horizontes) - relational database for managing pedagogical virtual trips.
+- ✈️ [Flights System (C)](https://github.com/matheusm18/flights-system-li3) - a C system developed with a strict focus on modularity and encapsulation, featuring an interactive terminal interface (ncurses) and optimized data structures.
+- 🌧️ [Aether (JavaScript)](https://github.com/matheusm18/aether) - weather dashboard focusing on API fetching, asynchronous logic, and dynamic UI updates with Tailwind CSS.
 
 # ☕ Languages:
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
