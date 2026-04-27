@@ -4,7 +4,7 @@ I'm **Matheus**, a Software Engineering student at **Universidade do Minho**, cu
 
 # 🚀 Projects
 Here are some of the things I’ve been working on:
-- 🏥 [Healthium (FastAPI + Vue.js)](https://github.com/matheusm18/healthium) - AI-powered nutrition platform (3rd Place @ BugsByte 2026).
+- 🏥 [Healthium (FastAPI + Vue.js)](https://github.com/matheusm18/healthium) - AI-powered nutrition platform (🏆 3rd Place @ BugsByte 2026).
 - 🎮 [Platinum (Next.js)](https://github.com/matheusm18/platinum) - social platform for gamers to track, rate and review games.
 - 🗼 [Immutable Towers (Haskell)](https://github.com/matheusm18/immutabletowers-li1) - exploring functional programming through games.
 - 🧩 [Puzzle Solver (C)](https://github.com/matheusm18/puzzle-li2) - hitori-like puzzle solver implemented in C.
