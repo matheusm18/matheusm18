@@ -12,6 +12,7 @@ I'm **Matheus**, a Software Engineering student at **Universidade do Minho**, cu
 Here are some of the things I’ve been working on:
 - 🏥 [Healthium (FastAPI + Vue.js)](https://github.com/matheusm18/healthium) - AI-powered nutrition platform (🏆 3rd Place @ BugsByte 2026).
 - 🎮 [Platinum (Next.js)](https://github.com/matheusm18/platinum) - social platform for gamers to track, rate and review games.
+- 🏠 [DomusControl (Java)](https://github.com/matheusm18/domuscontrol) - home automation simulation system built with MVC, Facade pattern and OOP principles.
 - 🗼 [Immutable Towers (Haskell)](https://github.com/matheusm18/immutabletowers-li1) - exploring functional programming through games.
 - 🧩 [Puzzle Solver (C)](https://github.com/matheusm18/puzzle-li2) - hitori-like puzzle solver implemented in C.
 - ✈️ [Flights System (C)](https://github.com/matheusm18/flights-system-li3) - a C system developed with a strict focus on modularity and encapsulation.
